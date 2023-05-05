@@ -1,0 +1,5 @@
+output
+output/*
+node_modules
+bin
+obj
